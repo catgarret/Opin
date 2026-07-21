@@ -54,4 +54,4 @@ Questions and bug reports: [GitHub Issues](https://github.com/catgarret/Opin/iss
 
 ## License
 
-MIT © Dongkyu LEE
+MIT © [dongri.me](https://dongri.me) · Built with AI vibe-coding.
