@@ -24,7 +24,7 @@ Opin è un'estensione del browser che ti permette di aprire l'immagine originale
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | In arrivo |
+| Firefox | https://addons.mozilla.org/en-US/firefox/addon/opin-original-pinterest |
 
 ### Installazione manuale (modalità sviluppatore)
 
@@ -54,4 +54,4 @@ Domande e segnalazioni di bug: [GitHub Issues](https://github.com/catgarret/Opin
 
 ## Licenza
 
-MIT © Dongkyu LEE
+MIT © [dongri.me](https://dongri.me) · Realizzato con AI vibe-coding.
