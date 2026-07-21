@@ -24,7 +24,7 @@ It's built for designers and researchers who benchmark on Pinterest and need the
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | Coming soon |
+| Firefox | https://addons.mozilla.org/ko/firefox/addon/opin-original-pinterest |
 
 ### Manual install (developer mode)
 
