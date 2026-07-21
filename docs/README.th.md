@@ -24,7 +24,7 @@ Opin เป็นส่วนขยายของเบราว์เซอร
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | เร็ว ๆ นี้ |
+| Firefox | https://addons.mozilla.org/en-US/firefox/addon/opin-original-pinterest |
 
 ### ติดตั้งด้วยตนเอง (โหมดนักพัฒนา)
 
@@ -54,4 +54,4 @@ Opin ไม่เก็บหรือจัดเก็บข้อมูลส
 
 ## สัญญาอนุญาต
 
-MIT © Dongkyu LEE
+MIT © [dongri.me](https://dongri.me) · สร้างขึ้นด้วย AI vibe-coding
