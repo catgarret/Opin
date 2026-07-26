@@ -57,4 +57,4 @@ Opin은 어떠한 개인정보도 수집·저장하지 않으며, 외부 서버�
 
 [MIT 라이선스](../LICENSE)는 이 저장소에 공개된 문서 및 기타 파일에만 적용됩니다. Opin 브라우저 확장 프로그램과 그 소스 코드에는 적용되지 않습니다.
 
-MIT © [dongri.me](https://dongri.me) · AI 바이브코딩으로 만들었습니다.
+© [dongri.me](https://dongri.me) · AI 바이브코딩으로 만들었습니다.

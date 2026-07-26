@@ -57,4 +57,4 @@ Domande e segnalazioni di bug: [GitHub Issues](https://github.com/catgarret/Opin
 
 La [Licenza MIT](../LICENSE) si applica esclusivamente alla documentazione e agli altri file pubblicati in questo repository. Non si applica all'estensione per browser Opin né al relativo codice sorgente.
 
-MIT © [dongri.me](https://dongri.me) · Realizzato con AI vibe-coding.
+© [dongri.me](https://dongri.me) · Realizzato con AI vibe-coding.

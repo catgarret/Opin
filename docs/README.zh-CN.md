@@ -57,4 +57,4 @@ Opin 不收集或存储任何个人数据，也从不与外部服务器通信。
 
 [MIT 许可证](../LICENSE)仅适用于本仓库中公开的文档及其他文件，不适用于 Opin 浏览器扩展程序及其源代码。
 
-MIT © [dongri.me](https://dongri.me) · 使用 AI 氛围编程（vibe coding）打造。
+© [dongri.me](https://dongri.me) · 使用 AI 氛围编程（vibe coding）打造。

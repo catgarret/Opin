@@ -57,4 +57,4 @@ Opin 不會收集或儲存任何個人資料，也從不與外部伺服器通訊
 
 [MIT 授權條款](../LICENSE)僅適用於本儲存庫中公開的文件及其他檔案，不適用於 Opin 瀏覽器擴充功能及其原始碼。
 
-MIT © [dongri.me](https://dongri.me) · 以 AI 氛圍編程（vibe coding）打造。
+© [dongri.me](https://dongri.me) · 以 AI 氛圍編程（vibe coding）打造。
