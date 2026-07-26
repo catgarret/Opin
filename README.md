@@ -55,6 +55,7 @@ Questions and bug reports: [GitHub Issues](https://github.com/catgarret/Opin/iss
 
 ## License
 
-The [MIT License](LICENSE) applies only to the documentation and other files published in this repository. It does not apply to the Opin browser extension or its source code.
+The [MIT License](LICENSE) applies only to the documentation and other files published in this repository.
+It does not apply to the Opin browser extension or its source code.
 
 © [dongri.me](https://dongri.me) · Built with AI vibe-coding.
