@@ -4,7 +4,8 @@
 
 ![Opin — View Original Pinterest Images](images/cover-en.png)
 
-Opin is a browser extension that lets you open the original, high‑resolution image behind any Pinterest pin. It adds a button next to Pinterest's **Save** button — click it to open the full‑size original in a new tab.
+Opin is a browser extension that lets you open the original, high‑resolution image behind any Pinterest pin.
+It adds a button next to Pinterest's **Save** button — click it to open the full‑size original in a new tab.
 
 It's built for designers and researchers who benchmark on Pinterest and need the highest‑quality source images.
 
@@ -12,7 +13,8 @@ It's built for designers and researchers who benchmark on Pinterest and need the
 
 This repository provides product documentation, official store links, support information, and the privacy policy for Opin.
 
-The extension source code is not publicly distributed. Please install Opin only through the official browser extension stores listed below.
+The extension source code is not publicly distributed.
+Please install Opin only through the official browser extension stores listed below.
 
 ## Features
 
@@ -47,7 +49,8 @@ The extension source code is not publicly distributed. Please install Opin only 
 
 ## Privacy
 
-Opin does not collect or store any personal data, and never communicates with external servers. See the full [Privacy Policy](PRIVACY.md).
+Opin does not collect or store any personal data, and never communicates with external servers.
+See the full [Privacy Policy](PRIVACY.md).
 
 ## Contact
 
