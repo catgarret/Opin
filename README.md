@@ -8,6 +8,12 @@ Opin is a browser extension that lets you open the original, high‑resolution i
 
 It's built for designers and researchers who benchmark on Pinterest and need the highest‑quality source images.
 
+## About this repository
+
+This repository provides product documentation, official store links, support information, and the privacy policy for Opin.
+
+The extension source code is not publicly distributed. Please install Opin only through the official browser extension stores listed below.
+
 ## Features
 
 - Adds a **View original image** button next to the Save button — both in the grid (feed) and on the pin detail page.
@@ -17,19 +23,14 @@ It's built for designers and researchers who benchmark on Pinterest and need the
 - Runs entirely in your browser — **no data collection, no external servers**.
 - Multilingual UI: English, Korean, Japanese, Simplified Chinese, Traditional Chinese, Thai.
 
-## Install
+## Install from official stores
 
 | Browser | Link |
 | --- | --- |
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | https://addons.mozilla.org/ko/firefox/addon/opin-original-pinterest |
-
-### Manual install (developer mode)
-
-- **Chrome / Edge / Whale:** open `chrome://extensions`, enable **Developer mode**, click **Load unpacked**, and select the `chrome` folder.
-- **Firefox:** open `about:debugging#/runtime/this-firefox`, click **Load Temporary Add‑on**, and select `firefox/manifest.json`.
+| Firefox | Coming soon |
 
 ## How to use
 
@@ -54,4 +55,4 @@ Questions and bug reports: [GitHub Issues](https://github.com/catgarret/Opin/iss
 
 ## License
 
-MIT © [dongri.me](https://dongri.me) · Built with AI vibe-coding.
+The [MIT License](LICENSE) applies only to the documentation and other files published in this repository. It does not apply to the Opin browser extension or its source code.

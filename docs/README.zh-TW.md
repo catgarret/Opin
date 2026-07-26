@@ -8,6 +8,12 @@ Opin 是一款瀏覽器擴充功能，可讓你開啟任何 Pinterest 圖釘背�
 
 它專為在 Pinterest 上進行參考研究、需要最高品質素材圖的設計師與研究者而打造。
 
+## 關於本儲存庫
+
+本儲存庫提供 Opin 的產品文件、官方商店連結、支援資訊與隱私權政策。
+
+擴充功能的原始碼不公開發佈。請僅透過下方列出的官方瀏覽器擴充功能商店安裝 Opin。
+
 ## 功能
 
 - 在**儲存**按鈕旁新增**檢視原始圖片**按鈕 — 同時支援格線（動態消息）與圖釘詳細頁。
@@ -17,19 +23,14 @@ Opin 是一款瀏覽器擴充功能，可讓你開啟任何 Pinterest 圖釘背�
 - 所有處理僅在瀏覽器內進行 — **不收集資料，不與外部伺服器通訊**。
 - 多語言介面：英文、韓文、日文、簡體中文、繁體中文、泰文。
 
-## 安裝
+## 從官方商店安裝
 
 | 瀏覽器 | 連結 |
 | --- | --- |
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | https://addons.mozilla.org/en-US/firefox/addon/opin-original-pinterest |
-
-### 手動安裝（開發者模式）
-
-- **Chrome / Edge / Whale：** 開啟 `chrome://extensions`，啟用**開發人員模式** → **載入未封裝項目** → 選擇 `chrome` 資料夾。
-- **Firefox：** 開啟 `about:debugging#/runtime/this-firefox` → **載入暫時性附加元件** → 選擇 `firefox/manifest.json`。
+| Firefox | 即將推出 |
 
 ## 使用方式
 
@@ -54,4 +55,4 @@ Opin 不會收集或儲存任何個人資料，也從不與外部伺服器通訊
 
 ## 授權
 
-MIT © [dongri.me](https://dongri.me) · 以 AI 氛圍編程（vibe coding）打造。
+[MIT 授權條款](../LICENSE)僅適用於本儲存庫中公開的文件及其他檔案，不適用於 Opin 瀏覽器擴充功能及其原始碼。

@@ -8,6 +8,12 @@ Opin 是一款浏览器扩展，可让你打开任意 Pinterest 图钉背后的�
 
 它专为在 Pinterest 上做参考调研、需要最高质量素材图的设计师与研究者而打造。
 
+## 关于本仓库
+
+本仓库提供 Opin 的产品文档、官方商店链接、支持信息和隐私政策。
+
+扩展程序的源代码不公开发布。请仅通过下方列出的官方浏览器扩展商店安装 Opin。
+
 ## 功能
 
 - 在**保存**按钮旁添加**查看原始图片**按钮 — 同时支持网格（信息流）和图钉详情页。
@@ -17,19 +23,14 @@ Opin 是一款浏览器扩展，可让你打开任意 Pinterest 图钉背后的�
 - 全部处理仅在浏览器内进行 — **不收集数据，不与外部服务器通信**。
 - 多语言界面：英语、韩语、日语、简体中文、繁体中文、泰语。
 
-## 安装
+## 从官方商店安装
 
 | 浏览器 | 链接 |
 | --- | --- |
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | https://addons.mozilla.org/en-US/firefox/addon/opin-original-pinterest |
-
-### 手动安装（开发者模式）
-
-- **Chrome / Edge / Whale：** 打开 `chrome://extensions`，启用**开发者模式** → **加载已解压的扩展程序** → 选择 `chrome` 文件夹。
-- **Firefox：** 打开 `about:debugging#/runtime/this-firefox` → **临时载入附加组件** → 选择 `firefox/manifest.json`。
+| Firefox | 即将推出 |
 
 ## 使用方法
 
@@ -54,4 +55,4 @@ Opin 不收集或存储任何个人数据，也从不与外部服务器通信。
 
 ## 许可证
 
-MIT © [dongri.me](https://dongri.me) · 使用 AI 氛围编程（vibe coding）打造。
+[MIT 许可证](../LICENSE)仅适用于本仓库中公开的文档及其他文件，不适用于 Opin 浏览器扩展程序及其源代码。

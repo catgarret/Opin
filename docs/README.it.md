@@ -8,6 +8,12 @@ Opin è un'estensione del browser che ti permette di aprire l'immagine originale
 
 È pensata per designer e ricercatori che usano Pinterest come riferimento e hanno bisogno delle immagini sorgente della massima qualità.
 
+## Informazioni su questo repository
+
+Questo repository fornisce la documentazione del prodotto, i link agli store ufficiali, le informazioni di supporto e l'informativa sulla privacy di Opin.
+
+Il codice sorgente dell'estensione non è distribuito pubblicamente. Installa Opin esclusivamente dagli store ufficiali di estensioni per browser elencati di seguito.
+
 ## Funzionalità
 
 - Aggiunge un pulsante **Visualizza immagine originale** accanto al pulsante Salva — sia nella griglia (feed) sia nella pagina di dettaglio del Pin.
@@ -17,19 +23,14 @@ Opin è un'estensione del browser che ti permette di aprire l'immagine originale
 - Funziona interamente nel tuo browser — **nessuna raccolta di dati, nessun server esterno**.
 - Interfaccia multilingue: inglese, coreano, giapponese, cinese semplificato, cinese tradizionale, thailandese.
 
-## Installazione
+## Installazione dagli store ufficiali
 
 | Browser | Link |
 | --- | --- |
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | https://addons.mozilla.org/en-US/firefox/addon/opin-original-pinterest |
-
-### Installazione manuale (modalità sviluppatore)
-
-- **Chrome / Edge / Whale:** apri `chrome://extensions`, attiva la **Modalità sviluppatore** → **Carica estensione non pacchettizzata** → seleziona la cartella `chrome`.
-- **Firefox:** apri `about:debugging#/runtime/this-firefox` → **Carica componente aggiuntivo temporaneo** → seleziona `firefox/manifest.json`.
+| Firefox | In arrivo |
 
 ## Come si usa
 
@@ -54,4 +55,4 @@ Domande e segnalazioni di bug: [GitHub Issues](https://github.com/catgarret/Opin
 
 ## Licenza
 
-MIT © [dongri.me](https://dongri.me) · Realizzato con AI vibe-coding.
+La [Licenza MIT](../LICENSE) si applica esclusivamente alla documentazione e agli altri file pubblicati in questo repository. Non si applica all'estensione per browser Opin né al relativo codice sorgente.

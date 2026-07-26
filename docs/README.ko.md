@@ -8,6 +8,12 @@ Opin은 Pinterest 핀의 원본 고해상도 이미지를 바로 열 수 있게 
 
 Pinterest에서 벤치마킹을 하며 최고 품질의 원본 이미지가 필요한 디자이너·리서처를 위해 만들었습니다.
 
+## 이 저장소에 대하여
+
+이 저장소는 Opin의 제품 문서, 공식 스토어 링크, 지원 정보 및 개인정보처리방침을 제공합니다.
+
+확장 프로그램의 소스 코드는 공개 배포하지 않습니다. Opin은 아래에 안내된 공식 브라우저 확장 프로그램 스토어를 통해서만 설치해 주세요.
+
 ## 기능
 
 - **저장** 버튼 옆에 **원본 이미지 보기** 버튼 추가 — 그리드(피드)와 핀 상세 페이지 모두 지원.
@@ -17,19 +23,14 @@ Pinterest에서 벤치마킹을 하며 최고 품질의 원본 이미지가 필�
 - 모든 처리가 브라우저 안에서만 동작 — **데이터 수집 없음, 외부 서버 통신 없음**.
 - 다국어 UI: 영어, 한국어, 일본어, 중국어 간체, 중국어 번체, 태국어.
 
-## 설치
+## 공식 스토어에서 설치
 
 | 브라우저 | 링크 |
 | --- | --- |
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | https://addons.mozilla.org/ko/firefox/addon/opin-original-pinterest |
-
-### 수동 설치 (개발자 모드)
-
-- **Chrome / Edge / Whale:** `chrome://extensions` 접속 → **개발자 모드** 켜기 → **압축해제된 확장 프로그램을 로드합니다** → `chrome` 폴더 선택.
-- **Firefox:** `about:debugging#/runtime/this-firefox` 접속 → **임시 부가 기능 로드** → `firefox/manifest.json` 선택.
+| Firefox | 준비 중 |
 
 ## 사용 방법
 
@@ -54,4 +55,4 @@ Opin은 어떠한 개인정보도 수집·저장하지 않으며, 외부 서버�
 
 ## 라이선스
 
-MIT © [dongri.me](https://dongri.me) · AI 바이브코딩으로 만들었습니다.
+[MIT 라이선스](../LICENSE)는 이 저장소에 공개된 문서 및 기타 파일에만 적용됩니다. Opin 브라우저 확장 프로그램과 그 소스 코드에는 적용되지 않습니다.

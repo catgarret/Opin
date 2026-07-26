@@ -8,6 +8,12 @@ Opin は、Pinterest のピンの元となる高解像度のオリジナル画�
 
 Pinterest でベンチマークを行い、最高品質のソース画像を必要とするデザイナーやリサーチャーのために作りました。
 
+## このリポジトリについて
+
+このリポジトリでは、Opin の製品ドキュメント、公式ストアへのリンク、サポート情報、プライバシーポリシーを提供しています。
+
+拡張機能のソースコードは一般公開していません。Opin は、以下に記載されたブラウザ拡張機能の公式ストアからのみインストールしてください。
+
 ## 機能
 
 - **保存**ボタンの横に**オリジナル画像を表示**ボタンを追加 — グリッド（フィード）とピン詳細ページの両方に対応。
@@ -17,19 +23,14 @@ Pinterest でベンチマークを行い、最高品質のソース画像を必�
 - すべての処理はブラウザ内でのみ動作 — **データ収集なし、外部サーバー通信なし**。
 - 多言語 UI：英語、韓国語、日本語、簡体字中国語、繁体字中国語、タイ語。
 
-## インストール
+## 公式ストアからインストール
 
 | ブラウザ | リンク |
 | --- | --- |
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | https://addons.mozilla.org/en-US/firefox/addon/opin-original-pinterest |
-
-### 手動インストール（開発者モード）
-
-- **Chrome / Edge / Whale:** `chrome://extensions` を開き、**デベロッパーモード**を有効化 → **パッケージ化されていない拡張機能を読み込む** → `chrome` フォルダを選択。
-- **Firefox:** `about:debugging#/runtime/this-firefox` を開き、**一時的なアドオンを読み込む** → `firefox/manifest.json` を選択。
+| Firefox | 近日公開 |
 
 ## 使い方
 
@@ -54,4 +55,4 @@ Opin は個人情報を一切収集・保存せず、外部サーバーとも通
 
 ## ライセンス
 
-MIT © [dongri.me](https://dongri.me) · AI バイブコーディングで作りました。
+[MIT ライセンス](../LICENSE)は、このリポジトリで公開されているドキュメントおよびその他のファイルにのみ適用されます。Opin ブラウザ拡張機能およびそのソースコードには適用されません。
