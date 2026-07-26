@@ -30,7 +30,7 @@ Pinterest でベンチマークを行い、最高品質のソース画像を必�
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | 近日公開 |
+| Firefox | https://addons.mozilla.org/addon/opin-original-pinterest/ |
 
 ## 使い方
 
@@ -56,3 +56,5 @@ Opin は個人情報を一切収集・保存せず、外部サーバーとも通
 ## ライセンス
 
 [MIT ライセンス](../LICENSE)は、このリポジトリで公開されているドキュメントおよびその他のファイルにのみ適用されます。Opin ブラウザ拡張機能およびそのソースコードには適用されません。
+
+MIT © [dongri.me](https://dongri.me) · AI バイブコーディングで作りました。

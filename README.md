@@ -30,7 +30,7 @@ The extension source code is not publicly distributed. Please install Opin only 
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | Coming soon |
+| Firefox | https://addons.mozilla.org/addon/opin-original-pinterest/ |
 
 ## How to use
 
@@ -56,3 +56,5 @@ Questions and bug reports: [GitHub Issues](https://github.com/catgarret/Opin/iss
 ## License
 
 The [MIT License](LICENSE) applies only to the documentation and other files published in this repository. It does not apply to the Opin browser extension or its source code.
+
+MIT © [dongri.me](https://dongri.me) · Built with AI vibe-coding.

@@ -30,7 +30,7 @@ Il codice sorgente dell'estensione non è distribuito pubblicamente. Installa Op
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | In arrivo |
+| Firefox | https://addons.mozilla.org/addon/opin-original-pinterest/ |
 
 ## Come si usa
 
@@ -56,3 +56,5 @@ Domande e segnalazioni di bug: [GitHub Issues](https://github.com/catgarret/Opin
 ## Licenza
 
 La [Licenza MIT](../LICENSE) si applica esclusivamente alla documentazione e agli altri file pubblicati in questo repository. Non si applica all'estensione per browser Opin né al relativo codice sorgente.
+
+MIT © [dongri.me](https://dongri.me) · Realizzato con AI vibe-coding.

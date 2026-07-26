@@ -30,7 +30,7 @@ Opin — это расширение для браузера, которое п�
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | Скоро |
+| Firefox | https://addons.mozilla.org/addon/opin-original-pinterest/ |
 
 ## Как пользоваться
 
@@ -56,3 +56,5 @@ Opin не собирает и не хранит никаких персонал�
 ## Лицензия
 
 [Лицензия MIT](../LICENSE) распространяется только на документацию и другие файлы, опубликованные в этом репозитории. Она не распространяется на браузерное расширение Opin и его исходный код.
+
+MIT © [dongri.me](https://dongri.me) · Создано с помощью AI vibe-coding.

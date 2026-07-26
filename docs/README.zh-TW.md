@@ -30,7 +30,7 @@ Opin 是一款瀏覽器擴充功能，可讓你開啟任何 Pinterest 圖釘背�
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | 即將推出 |
+| Firefox | https://addons.mozilla.org/addon/opin-original-pinterest/ |
 
 ## 使用方式
 
@@ -56,3 +56,5 @@ Opin 不會收集或儲存任何個人資料，也從不與外部伺服器通訊
 ## 授權
 
 [MIT 授權條款](../LICENSE)僅適用於本儲存庫中公開的文件及其他檔案，不適用於 Opin 瀏覽器擴充功能及其原始碼。
+
+MIT © [dongri.me](https://dongri.me) · 以 AI 氛圍編程（vibe coding）打造。

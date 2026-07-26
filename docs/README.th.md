@@ -30,7 +30,7 @@ Opin เป็นส่วนขยายของเบราว์เซอร
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | เร็ว ๆ นี้ |
+| Firefox | https://addons.mozilla.org/addon/opin-original-pinterest/ |
 
 ## วิธีใช้
 
@@ -56,3 +56,5 @@ Opin ไม่เก็บหรือจัดเก็บข้อมูลส
 ## สัญญาอนุญาต
 
 [สัญญาอนุญาต MIT](../LICENSE) ใช้เฉพาะกับเอกสารและไฟล์อื่น ๆ ที่เผยแพร่ในที่เก็บนี้เท่านั้น ไม่ครอบคลุมส่วนขยายเบราว์เซอร์ Opin หรือซอร์สโค้ดของส่วนขยาย
+
+MIT © [dongri.me](https://dongri.me) · สร้างขึ้นด้วย AI vibe-coding

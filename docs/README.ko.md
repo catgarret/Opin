@@ -30,7 +30,7 @@ Pinterest에서 벤치마킹을 하며 최고 품질의 원본 이미지가 필�
 | Chrome | https://chromewebstore.google.com/detail/babnlbndbmifokbppcefdfiblnfofojl |
 | Edge | https://microsoftedge.microsoft.com/addons/detail/ooejcbgooenmekhfmbjfkdenajmkmoip |
 | Whale | https://store.whale.naver.com/detail/gagclfkhikbhomlpdobdmdojkkdlaima |
-| Firefox | 준비 중 |
+| Firefox | https://addons.mozilla.org/addon/opin-original-pinterest/ |
 
 ## 사용 방법
 
@@ -56,3 +56,5 @@ Opin은 어떠한 개인정보도 수집·저장하지 않으며, 외부 서버�
 ## 라이선스
 
 [MIT 라이선스](../LICENSE)는 이 저장소에 공개된 문서 및 기타 파일에만 적용됩니다. Opin 브라우저 확장 프로그램과 그 소스 코드에는 적용되지 않습니다.
+
+MIT © [dongri.me](https://dongri.me) · AI 바이브코딩으로 만들었습니다.
